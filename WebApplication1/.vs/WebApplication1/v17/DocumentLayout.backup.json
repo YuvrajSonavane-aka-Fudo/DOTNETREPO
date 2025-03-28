@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|c:\\users\\yuvraj\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|c:\\users\\yuvraj\\source\\repos\\webapplication1\\webapplication1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|c:\\users\\yuvraj\\source\\repos\\webapplication1\\webapplication1\\views\\home\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|c:\\users\\yuvraj\\source\\repos\\webapplication1\\webapplication1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|c:\\users\\yuvraj\\source\\repos\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|c:\\users\\yuvraj\\source\\repos\\webapplication1\\webapplication1\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|c:\\users\\yuvraj\\source\\repos\\webapplication1\\webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|c:\\users\\yuvraj\\source\\repos\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|c:\\users\\yuvraj\\source\\repos\\webapplication1\\webapplication1\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|c:\\users\\yuvraj\\source\\repos\\webapplication1\\webapplication1\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|c:\\users\\yuvraj\\source\\repos\\webapplication1\\webapplication1\\models\\portfolioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C49C54-BFFD-4CA0-B44F-8A7EC1D7F903}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\portfolioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Contact.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Contact.cshtml.cs",
+              "ToolTip": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Contact.cshtml.cs",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Contact.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:06:50.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:02:39.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T06:56:56.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T06:56:13.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T06:55:42.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAjwDEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T06:55:16.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:52:04.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Skill.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:47:01.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Models\\ContactMessage.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ContactMessage.cs",
+              "ToolTip": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Models\\ContactMessage.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ContactMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:45:46.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PortfolioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Models\\PortfolioViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\PortfolioViewModel.cs",
+              "ToolTip": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Models\\PortfolioViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\PortfolioViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:49:13.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\Yuvraj\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Project.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:44:13.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

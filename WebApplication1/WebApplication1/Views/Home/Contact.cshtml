@@ -1,0 +1,20 @@
+﻿@model WebApplication1.Models.ContactMessage
+<h2 class="text-center my-5">Contact Me</h2>
+<div class="container">
+    @using (Html.BeginForm("SubmitContactForm", "Home", FormMethod.Post))
+    {
+        <div class="mb-3">
+            <label for="Name" class="form-label">Name</label>
+            @Html.TextBoxFor(m => m.Name, new { @class = "form-control", placeholder = "Your Name" })
+        </div>
+        <div class="mb-3">
+            <label for="Email" class="form-label">Email</label>
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "Your Email" })
+        </div>
+        <div class="mb-3">
+            <label for="Message" class="form-label">Message</label>
+            @Html.TextAreaFor(m => m.Message, new { @class = "form-control", rows = 5, placeholder = "Your Message" })
+        </div>
+        <button type="submit" class="btn btn-primary">Send Message</button>
+    }
+</div>

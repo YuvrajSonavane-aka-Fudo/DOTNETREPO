@@ -1,0 +1,51 @@
+﻿@model PortfolioViewModel
+
+<!-- Hero Section -->
+<section class="hero text-center text-white bg-primary py-5">
+    <div class="container">
+        <h1 class="display-4">@Model.Name</h1>
+        <p class="lead">@Model.Description</p>
+    </div>
+</section>
+
+<!-- Skills Section -->
+<section class="skills py-5">
+    <div class="container">
+        <h2 class="text-center mb-4">My Skills</h2>
+        <div class="row">
+            @foreach (var skill in Model.Skills)
+            {
+                <div class="col-md-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">@skill.Name</h5>
+                            <p class="card-text">@skill.Proficiency</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+<!-- Projects Section -->
+<section class="projects py-5 bg-light">
+    <div class="container">
+        <h2 class="text-center mb-4">My Projects</h2>
+        <div class="row">
+            @foreach (var project in Model.Projects)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card">
+                        <img src="@project.ImageUrl" class="card-img-top" alt="@project.Title" />
+                        <div class="card-body">
+                            <h5 class="card-title">@project.Title</h5>
+                            <p class="card-text">@project.Description</p>
+                            <a href="@project.Link" target="_blank" class="btn btn-primary">View Project</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
