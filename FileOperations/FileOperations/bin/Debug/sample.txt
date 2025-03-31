@@ -1,0 +1,2 @@
+This is the first line in the text file.
+This is an appended line.

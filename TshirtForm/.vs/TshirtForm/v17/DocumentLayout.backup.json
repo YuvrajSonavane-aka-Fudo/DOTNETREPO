@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yuvraj\\source\\repos\\TshirtForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76FBE720-B54B-4E94-8CF0-53653AC10E02}|TshirtForm\\TshirtForm.csproj|c:\\users\\yuvraj\\source\\repos\\tshirtform\\tshirtform\\tshirtorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76FBE720-B54B-4E94-8CF0-53653AC10E02}|TshirtForm\\TshirtForm.csproj|solutionrelative:tshirtform\\tshirtorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FBE720-B54B-4E94-8CF0-53653AC10E02}|TshirtForm\\TshirtForm.csproj|c:\\users\\yuvraj\\source\\repos\\tshirtform\\tshirtform\\tshirtorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FBE720-B54B-4E94-8CF0-53653AC10E02}|TshirtForm\\TshirtForm.csproj|solutionrelative:tshirtform\\tshirtorderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TShirtOrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj\\source\\repos\\TshirtForm\\TshirtForm\\TShirtOrderForm.cs",
+              "RelativeDocumentMoniker": "TshirtForm\\TShirtOrderForm.cs",
+              "ToolTip": "C:\\Users\\Yuvraj\\source\\repos\\TshirtForm\\TshirtForm\\TShirtOrderForm.cs",
+              "RelativeToolTip": "TshirtForm\\TShirtOrderForm.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:39:24.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TShirtOrderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Yuvraj\\source\\repos\\TshirtForm\\TshirtForm\\TShirtOrderForm.cs",
+              "RelativeDocumentMoniker": "TshirtForm\\TShirtOrderForm.cs",
+              "ToolTip": "C:\\Users\\Yuvraj\\source\\repos\\TshirtForm\\TshirtForm\\TShirtOrderForm.cs [Design]",
+              "RelativeToolTip": "TshirtForm\\TShirtOrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:30:16.894Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

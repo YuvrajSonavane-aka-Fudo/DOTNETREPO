@@ -1,0 +1,7 @@
+C:\Users\Yuvraj\source\repos\FileOperations\FileOperations\bin\Debug\FileOperations.exe.config
+C:\Users\Yuvraj\source\repos\FileOperations\FileOperations\bin\Debug\FileOperations.exe
+C:\Users\Yuvraj\source\repos\FileOperations\FileOperations\bin\Debug\FileOperations.pdb
+C:\Users\Yuvraj\source\repos\FileOperations\FileOperations\obj\Debug\FileOperations.csproj.AssemblyReference.cache
+C:\Users\Yuvraj\source\repos\FileOperations\FileOperations\obj\Debug\FileOperations.csproj.CoreCompileInputs.cache
+C:\Users\Yuvraj\source\repos\FileOperations\FileOperations\obj\Debug\FileOperations.exe
+C:\Users\Yuvraj\source\repos\FileOperations\FileOperations\obj\Debug\FileOperations.pdb

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yuvraj\\source\\repos\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFB402-10EA-41A3-9BD5-818425F0B3E5}|Assignment1\\Assignment1.csproj|c:\\users\\yuvraj\\source\\repos\\assignment1\\assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFB402-10EA-41A3-9BD5-818425F0B3E5}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFB402-10EA-41A3-9BD5-818425F0B3E5}|Assignment1\\Assignment1.csproj|c:\\users\\yuvraj\\source\\repos\\assignment1\\assignment1\\squarerootcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFB402-10EA-41A3-9BD5-818425F0B3E5}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\squarerootcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFB402-10EA-41A3-9BD5-818425F0B3E5}|Assignment1\\Assignment1.csproj|c:\\users\\yuvraj\\source\\repos\\assignment1\\assignment1\\palindromechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFB402-10EA-41A3-9BD5-818425F0B3E5}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\palindromechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFB402-10EA-41A3-9BD5-818425F0B3E5}|Assignment1\\Assignment1.csproj|c:\\users\\yuvraj\\source\\repos\\assignment1\\assignment1\\sumofdigits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFB402-10EA-41A3-9BD5-818425F0B3E5}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\sumofdigits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AFB402-10EA-41A3-9BD5-818425F0B3E5}|Assignment1\\Assignment1.csproj|c:\\users\\yuvraj\\source\\repos\\assignment1\\assignment1\\shufflestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AFB402-10EA-41A3-9BD5-818425F0B3E5}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\shufflestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj\\source\\repos\\Assignment1\\Assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Program.cs",
+              "ToolTip": "C:\\Users\\Yuvraj\\source\\repos\\Assignment1\\Assignment1\\Program.cs",
+              "RelativeToolTip": "Assignment1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:04:28.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SquareRootCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj\\source\\repos\\Assignment1\\Assignment1\\SquareRootCalculator.cs",
+              "RelativeDocumentMoniker": "Assignment1\\SquareRootCalculator.cs",
+              "ToolTip": "C:\\Users\\Yuvraj\\source\\repos\\Assignment1\\Assignment1\\SquareRootCalculator.cs",
+              "RelativeToolTip": "Assignment1\\SquareRootCalculator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:07:38.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PalindromeChecker.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj\\source\\repos\\Assignment1\\Assignment1\\PalindromeChecker.cs",
+              "RelativeDocumentMoniker": "Assignment1\\PalindromeChecker.cs",
+              "ToolTip": "C:\\Users\\Yuvraj\\source\\repos\\Assignment1\\Assignment1\\PalindromeChecker.cs",
+              "RelativeToolTip": "Assignment1\\PalindromeChecker.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:06:48.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SumOfDigits.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj\\source\\repos\\Assignment1\\Assignment1\\SumOfDigits.cs",
+              "RelativeDocumentMoniker": "Assignment1\\SumOfDigits.cs",
+              "ToolTip": "C:\\Users\\Yuvraj\\source\\repos\\Assignment1\\Assignment1\\SumOfDigits.cs",
+              "RelativeToolTip": "Assignment1\\SumOfDigits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:06:00.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShuffleString.cs",
+              "DocumentMoniker": "C:\\Users\\Yuvraj\\source\\repos\\Assignment1\\Assignment1\\ShuffleString.cs",
+              "RelativeDocumentMoniker": "Assignment1\\ShuffleString.cs",
+              "ToolTip": "C:\\Users\\Yuvraj\\source\\repos\\Assignment1\\Assignment1\\ShuffleString.cs",
+              "RelativeToolTip": "Assignment1\\ShuffleString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T06:05:36.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

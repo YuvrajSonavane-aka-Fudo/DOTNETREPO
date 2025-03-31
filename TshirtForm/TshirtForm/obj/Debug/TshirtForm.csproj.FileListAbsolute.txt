@@ -1,0 +1,10 @@
+C:\Users\Yuvraj\source\repos\TshirtForm\TshirtForm\bin\Debug\TshirtForm.exe.config
+C:\Users\Yuvraj\source\repos\TshirtForm\TshirtForm\bin\Debug\TshirtForm.exe
+C:\Users\Yuvraj\source\repos\TshirtForm\TshirtForm\bin\Debug\TshirtForm.pdb
+C:\Users\Yuvraj\source\repos\TshirtForm\TshirtForm\obj\Debug\TshirtForm.csproj.AssemblyReference.cache
+C:\Users\Yuvraj\source\repos\TshirtForm\TshirtForm\obj\Debug\TshirtForm.Properties.Resources.resources
+C:\Users\Yuvraj\source\repos\TshirtForm\TshirtForm\obj\Debug\TshirtForm.TShirtOrderForm.resources
+C:\Users\Yuvraj\source\repos\TshirtForm\TshirtForm\obj\Debug\TshirtForm.csproj.GenerateResource.cache
+C:\Users\Yuvraj\source\repos\TshirtForm\TshirtForm\obj\Debug\TshirtForm.csproj.CoreCompileInputs.cache
+C:\Users\Yuvraj\source\repos\TshirtForm\TshirtForm\obj\Debug\TshirtForm.exe
+C:\Users\Yuvraj\source\repos\TshirtForm\TshirtForm\obj\Debug\TshirtForm.pdb
